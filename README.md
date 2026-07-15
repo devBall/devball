@@ -100,6 +100,3 @@ A Next.js portfolio application for presenting projects, technical experience, a
 ## Connect With Me
 
 * GitHub: [github.com/devBall](https://github.com/devBall)
-* LinkedIn: Add your LinkedIn URL here
-* Portfolio: Add your portfolio URL here
-* Email: Add your professional email here
